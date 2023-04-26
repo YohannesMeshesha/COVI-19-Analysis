@@ -69,6 +69,9 @@ Then, we will explore the continents sorted in descending order of their total d
 ![6B](https://user-images.githubusercontent.com/131899006/234669264-72f38491-fb8d-4106-9a8f-6da279fd6e95.png)
 
 This is a COVID-19 exploration project that utilizes SQL to analyze cases, deaths, and vaccinations. The purpose of this project is to apply basic SQL knowledge to explore real-life scenarios of the COVID-19 outbreak. The queries include basic SQL functions, window functions, and CTEs. Visualizations of the case scenarios in this project were created using Power BI.
-VIZUALIZATION USING POWER BI 
+
+#VISUALIZATION USING POWER BI 
+
+![VISUALIZATION USING POWER BI ](https://user-images.githubusercontent.com/131899006/234670447-4426a1bc-60fa-4f0d-8757-41cdf14e3773.png)
 
 
