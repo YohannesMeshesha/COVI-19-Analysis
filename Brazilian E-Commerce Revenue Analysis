@@ -1,0 +1,8 @@
+#Brazilian E-Commerce Revenue Analysis 
+ It's important to have a clear understanding of your company's financial performance and customer behavior. Data visualization tools can help you make sense of your data and gain valuable insights into your business. In this report, I have compiled a series of charts and graphs to help you better understand your business. These charts cover important metrics such as revenue, customers, products, and sales volume, and allow you to filter data by state, year, and month. Additionally, I have included charts to help you identify top-selling products and high-value customers. With this information, you can make informed decisions about inventory, pricing, marketing, and customer retention strategies.
+
+The first step in any data analysis project is to thoroughly understand the data source. In this particular case, we are dealing with multiple CSV files that need to be imported into MSSQL by leveraging the SSIS tool for Extract, Transform, and Load (ETL) processes.
+
+Once all the data has been successfully loaded into MSSQL, I proceed to create a MasterTable that only contains the necessary columns such as customer ID,  address, order ID, order date, total order value, product ID, product name, quantity purchased, price per unit, payment ID, and payment  date columns extracted from the source data using the SSIS package.
+
+Since the source doesn’t contain a "payment_Id" column, I added a unique identifier column to the MSSQL table in order to generate the required unique identifiers.
