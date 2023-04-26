@@ -44,14 +44,14 @@ Scenario 3: presents an alternative method of exploring countries with their Tot
 
 Thus, we can deduce it gave the same results as the former case scenario. It is an alternative solution to the former scenario.
 
-In Scenario 4: I provide information on global numbers, including the world's Total Cases, Total Deaths, Total Population, Death Percentage, and Case Percentage.
+**In Scenario 4:** I provide information on global numbers, including the world's Total Cases, Total Deaths, Total Population, Death Percentage, and Case Percentage.
 
 ![4A](https://user-images.githubusercontent.com/131899006/234669049-1614f78a-cd83-4e73-ba0a-38802432343c.png)
 
 
 The results of Scenario 4 reveal that as of May 2nd, 2022, the recorded total cases of COVID-19 worldwide were 513,180,614, estimated to be over 500 million cases. The total number of recorded deaths across the world was 6,194,913. The world's total population was estimated to be over 6 trillion, with a death percentage and case percentage of 1.2% and 0.008%, respectively.
 
-Scenario 5: Focuses on exploring the country's recorded daily new cases, new deaths, cumulative cases, cumulative deaths, new vaccinations, and cumulative vaccinations. In order to better visualize and understand these insights, visualizations were created for this COVID-19 case study analysis.
+**Scenario 5:** Focuses on exploring the country's recorded daily new cases, new deaths, cumulative cases, cumulative deaths, new vaccinations, and cumulative vaccinations. In order to better visualize and understand these insights, visualizations were created for this COVID-19 case study analysis.
 
 ![5A](https://user-images.githubusercontent.com/131899006/234669083-78b6fa69-f3d3-4a7f-aee9-a9d8937aae2e.png)
 
