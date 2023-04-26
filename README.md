@@ -21,7 +21,7 @@ The above table represents results for the last 15 days prior to May 2ND, 2022 w
 
 
 
-In Scenario 2:, Iexamined multiple countries and analyzed their Total Cases, Total Deaths, Percentage of the Country Population Infected, and Percentage of the Country's Population Deceased. The results were sorted in descending order by the Percentage of the Country's Population Infected.
+In Scenario 2: I examined multiple countries and analyzed their Total Cases, Total Deaths, Percentage of the Country Population Infected, and Percentage of the Country's Population Deceased. The results were sorted in descending order by the Percentage of the Country's Population Infected.
 
 The query and snapshots above show the top rows of the result, which indicate that the Faeroe Islands had the highest percentage of the population infected with Covid-19. Scrolling down the result reveals information on other countries, with the explored columns sorted in descending order of their percentage of the population infected.
 
@@ -33,24 +33,13 @@ The snapshot of the result above displays the top 15 countries with the highest 
 
 Scenario 3: presents an alternative method of exploring countries with their Total Cases, Sum of Deaths, Percentage of Population Infected, and Percentage of Population Dead. The highest infection count and highest death count are used in place of Total Cases and Total Deaths, respectively, as columns in the dataset record the cumulative cases and deaths. The query and result for this scenario are as follows:
 
-
-
-
 Thus, we can deduce it gave the same results as the former case scenario. It is an alternative solution to the former scenario.
 
-In Scenario 4:, I provide information on global numbers, including the world's Total Cases, Total Deaths, Total Population, Death Percentage, and Case Percentage.
-
-
-
-
+In Scenario 4: I provide information on global numbers, including the world's Total Cases, Total Deaths, Total Population, Death Percentage, and Case Percentage.
 
 The results of Scenario 4 reveal that as of May 2nd, 2022, the recorded total cases of COVID-19 worldwide were 513,180,614, estimated to be over 500 million cases. The total number of recorded deaths across the world was 6,194,913. The world's total population was estimated to be over 6 trillion, with a death percentage and case percentage of 1.2% and 0.008%, respectively.
 
 Scenario 5: Focuses on exploring the country's recorded daily new cases, new deaths, cumulative cases, cumulative deaths, new vaccinations, and cumulative vaccinations. In order to better visualize and understand these insights, visualizations were created for this COVID-19 case study analysis.
-
-
-
-
 
 
 The result gives the country's daily recorded population, cases, the cumulative sum of daily cases, deaths, the cumulative sum of daily deaths, vaccinations, and the cumulative sum of the daily vaccinations. Insights from these results will be understood more clearly through the visualizations.
@@ -61,8 +50,6 @@ Here, we look into continents and their confirmed cases, deaths, and vaccination
 
 Here, we can see the continents and their respective total cases and total deaths, This was sorted by the total cases in descending order, Thus Europe had the highest sum of cases, followed by Asia, NA, SA, Africa, and Oceania.
 Then, we will explore the continents sorted in descending order of their total deaths
-
-
 
 This is a COVID-19 exploration project that utilizes SQL to analyze cases, deaths, and vaccinations. The purpose of this project is to apply basic SQL knowledge to explore real-life scenarios of the COVID-19 outbreak. The queries include basic SQL functions, window functions, and CTEs. Visualizations of the case scenarios in this project were created using Power BI.
 VIZUALIZATION USING POWER BI 
