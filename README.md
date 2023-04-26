@@ -10,7 +10,7 @@ In my project, I used the 2022 Covid-19 dataset to explore and visualize data us
 I executed this SQL project using Microsoft SQL Server Management Studio, and a snapshot of a few columns and entries in the CovidDeaths and CovidVaccinations datasets is available below. The SQL query file is also available on my Github Repo:
 
 
-In Scenario 1 : The following data was explored specifically for Ethiopia: Total Daily Cases, Deaths, and Percentage Death Rate, which indicates the likelihood of an infected person dying. It should be noted that this scenario is not limited to Ethiopia, and information for other countries can also be explored using the same approach.
+**In Scenario 1:** The following data was explored specifically for Ethiopia: Total Daily Cases, Deaths, and Percentage Death Rate, which indicates the likelihood of an infected person dying. It should be noted that this scenario is not limited to Ethiopia, and information for other countries can also be explored using the same approach.
 
 ![1](https://user-images.githubusercontent.com/131899006/234667653-ab0959aa-54cc-4ef5-8833-162dc452e6f6.png)
 
@@ -23,7 +23,7 @@ The above table represents results for the last 15 days prior to May 2ND, 2022 w
 
 
 
-In Scenario 2: I examined multiple countries and analyzed their Total Cases, Total Deaths, Percentage of the Country Population Infected, and Percentage of the Country's Population Deceased. The results were sorted in descending order by the Percentage of the Country's Population Infected.
+**In Scenario 2:** I examined multiple countries and analyzed their Total Cases, Total Deaths, Percentage of the Country Population Infected, and Percentage of the Country's Population Deceased. The results were sorted in descending order by the Percentage of the Country's Population Infected.
 
 ![2A](https://user-images.githubusercontent.com/131899006/234668410-ef79f429-3fbf-4d63-b156-bbfefd5987b7.png)
 
@@ -38,7 +38,7 @@ It should be noted that the above exploration can be sorted in descending order 
 
 The snapshot of the result above displays the top 15 countries with the highest total cases of COVID-19. The United States had the highest number of cases, with over 81 million recorded, and nearly a million total deaths. India followed with over 43 million cases, and so on, with countries arranged in descending order of Total Cases. Scrolling down on the MSSQL studio reveals additional countries and their corresponding Cases, Deaths, Populations, and more.
 
-Scenario 3: presents an alternative method of exploring countries with their Total Cases, Sum of Deaths, Percentage of Population Infected, and Percentage of Population Dead. The highest infection count and highest death count are used in place of Total Cases and Total Deaths, respectively, as columns in the dataset record the cumulative cases and deaths. The query and result for this scenario are as follows:
+**Scenario 3:** presents an alternative method of exploring countries with their Total Cases, Sum of Deaths, Percentage of Population Infected, and Percentage of Population Dead. The highest infection count and highest death count are used in place of Total Cases and Total Deaths, respectively, as columns in the dataset record the cumulative cases and deaths. The query and result for this scenario are as follows:
 ![3A](https://user-images.githubusercontent.com/131899006/234668905-8a4f1ef8-5ddf-4710-88a2-530338762b02.png)
 
 
@@ -59,7 +59,7 @@ The results of Scenario 4 reveal that as of May 2nd, 2022, the recorded total ca
 
 The result gives the country's daily recorded population, cases, the cumulative sum of daily cases, deaths, the cumulative sum of daily deaths, vaccinations, and the cumulative sum of the daily vaccinations. Insights from these results will be understood more clearly through the visualizations.
 
-SCENARIO 6:
+**SCENARIO 6:**
 Here, we look into continents and their confirmed cases, deaths, and vaccinations. We want to know the order in which these continents are ordered in their confirmed total cases, deaths, and vaccinations.
 
 ![6A](https://user-images.githubusercontent.com/131899006/234669239-ff64ca95-57ce-4c02-8c8d-ba3f0f202580.png)
@@ -71,7 +71,7 @@ Then, we will explore the continents sorted in descending order of their total d
 
 This is a COVID-19 exploration project that utilizes SQL to analyze cases, deaths, and vaccinations. The purpose of this project is to apply basic SQL knowledge to explore real-life scenarios of the COVID-19 outbreak. The queries include basic SQL functions, window functions, and CTEs. Visualizations of the case scenarios in this project were created using Power BI.
 
-#VISUALIZATION USING POWER BI 
+**VISUALIZATION USING POWER BI **
 
 ![VISUALIZATION USING POWER BI ](https://user-images.githubusercontent.com/131899006/234670447-4426a1bc-60fa-4f0d-8757-41cdf14e3773.png)
 
